@@ -1,4 +1,4 @@
-name: 'fastpages: An easy to use blogging platform with support for Jupyter Notebooks.'
+      name: 'ışıklı Alfabe Sayfalaruı '     
 description: Converts Jupyter notebooks and Word docs into Jekyll blog posts.
 author: Hamel Husain
 inputs:
@@ -9,7 +9,7 @@ inputs:
   SSH_DEPLOY_KEY:
     description: a ssh deploy key is required if BOOL_SAVE_MARKDOWN = 'true'
     required: false
-branding:
+branding:  
   color: 'blue'
   icon: 'book'
 runs:
